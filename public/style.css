@@ -1,0 +1,79 @@
+h1{
+    color: blue;
+}
+
+#hero{
+    position: absolute;
+    left: 0%;
+    bottom: 3%;
+
+}
+  
+#villan{
+    position: absolute;
+    left: 80%;
+    bottom: 3%;
+
+}
+
+#bgimg{
+    display: block;
+    height: 95vh;
+    width: 100%;
+    background-size: cover;
+}
+
+#run{
+    position: absolute;
+    top: 30%;
+}
+
+#jump{
+    position: absolute;
+    top: 30%;
+    margin: 2em;
+}
+.card{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#start{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.img-1{
+    width: 7vw;
+}
+
+
+.img-2{
+    width: 10vw;
+}
+
+body{
+    background-image: url("./bg\ image.jpg");
+    background-repeat: no-repeat;
+}
+
+#gif{
+    margin-top: 2em;
+    text-align: center;
+}
+
+#goku{
+    border-radius: 500px;
+}
+
+center{
+    font-size: 70px;
+}
+
+#score{
+    font-weight:bold;
+}
