@@ -14,6 +14,7 @@ function Over() {
     function playagain() {
         localStorage.clear()
         navigate("/")
+        document.location.reload()
     }
 
     
