@@ -2,7 +2,8 @@
 This is classic game created using React js and also added mario background music to enjoy game
 
 ### you can see classic game by clicking following link
-https://marvelous-centaur-fc636f.netlify.app/over
+https://marvelous-centaur-fc636f.netlify.app
+
 
 #### some screen shot here
 ![Screenshot (162)](https://user-images.githubusercontent.com/99859675/219618038-7c28258c-6f9d-4783-a449-fecd1c31b98c.png)
